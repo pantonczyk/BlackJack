@@ -1,0 +1,15 @@
+C:\Users\pablo\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\pablo\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\pablo\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.Form_black_jack.resources
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.Form_about.resources
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.Form_multi_player.resources
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.Form_player_one.resources
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.Form_player_two.resources
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.Form_Single_Player.resources
+C:\Users\pablo\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.Form_Single_Game.resources
